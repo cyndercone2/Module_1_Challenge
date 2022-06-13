@@ -1,15 +1,23 @@
-# Title
+# Captiv8 and Influencer Finance
 
 ## Overview and Origin
 
 * What is the name of the company?
 
+    Captiv8
 
 * When was the company incorporated?
+  
+    2015
+
 
 * Who are the founders of the company?
+  
+  Krishna Subramanian
 
 * How did the idea for the company (or project) come about?
+
+Krishna founded and sold 2 other marketing companies 
 
 * How is the company funded? How much funding have they received?
 
